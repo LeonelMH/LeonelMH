@@ -21,22 +21,9 @@ Además de programar, disfruto:
 
 ---
 
-## 📦 Repositorios destacados
-
-<!-- Aquí puedes agregar tus proyectos más importantes cuando quieras -->
-🔍  `PROYECTO`: Detección de fatiga facial con retroalimentación visual persistente.
-
----
-
-## 💡 Filosofía de diseño
-
-> “Cada línea de código es una oportunidad para aprender, mejorar y compartir.”
-
----
-
 ## 📬 Conecta conmigo
 
-- 📧 Correo: [
+- 📧 Correo: [martinezleonel886@gmail.com]
 
 ---
 
