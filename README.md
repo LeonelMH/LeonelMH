@@ -1,5 +1,5 @@
 ## 👋 ¡Hola! Soy Leo
-🎓 Soy estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana. Actualmente me encuentro explorando el mundo del desarrollo de software, GitHub y las tecnologías emergentes que están transformando la forma en que interactuamos con la tecnología.
+🎓 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana. Actualmente me encuentro explorando el mundo del desarrollo de software, GitHub y las tecnologías emergentes que están transformando la forma en que interactuamos con la tecnología.
 
 ## 🚀 En constante aprendizaje
 
